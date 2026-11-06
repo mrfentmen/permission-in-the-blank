@@ -78,6 +78,7 @@ The primary material predates the CSA report by nine days. Both arrived at the s
 - PERMISSION-IN-THE-BLANK.md: the preprint.
 - LINKEDIN-POSTS.md: seed posts for social distribution.
 - EMAIL-CSA.md: draft outreach to the Cloud Security Alliance.
+- PERMISSION-IN-THE-BLANK.pdf: the same paper as a 10-page PDF, ready to upload.
 
 ## Licence
 
