@@ -1,0 +1,45 @@
+# License
+
+Copyright (c) 2026 mrfentmen. All rights reserved as to authorship.
+
+This work is the original work of the author named above. The observation, the
+case studies, the framing of "permission in the blank", and the analysis in
+`PERMISSION-IN-THE-BLANK.md` are the author's own.
+
+## Text
+
+The text in this repository is licensed under the Creative Commons
+Attribution 4.0 International License (CC BY 4.0).
+
+You are free to share and adapt the material for any purpose, including
+commercially, provided that you give appropriate credit to the author, link to
+the license, and indicate whether changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+## Attribution requirement
+
+Any citation, quotation, summary, or derivative work that uses the framing or
+the findings in this repository must credit:
+
+    mrfentmen, "Permission in the Blank: How an Empty Target Slot Lets a
+    Language Model Author Its Own Authorization", preprint, 5 November 2026.
+    https://github.com/mrfentmen/permission-in-the-blank
+
+## Prior work
+
+This repository cites and builds on the work of others, listed in the
+References section of the paper. Nothing in this license claims authorship of
+that prior work. In particular:
+
+- The term "confused deputy" originates with N. Hardy (1988).
+- ConfusedPilot (arXiv:2408.04870) and the 2026 agent authorization papers
+  (arXiv:2606.28679, arXiv:2609.00267) are the work of their respective
+  authors.
+- The Cloud Security Alliance report of 3 November 2026 is the work of the
+  Cloud Security Alliance.
+
+## What is not licensed here
+
+The raw session transcripts referenced in the paper are retained by the author
+and are not part of this repository. They are not covered by this license.
