@@ -6,6 +6,9 @@ A short preprint about a failure mode in model-generated security documents.
 
 **The paper:** [PERMISSION-IN-THE-BLANK.md](PERMISSION-IN-THE-BLANK.md)
 
+**DOI:** [10.5281/zenodo.23994480](https://doi.org/10.5281/zenodo.23994480)
+**Published record:** https://zenodo.org/records/23994480
+
 **Date:** 5 November 2026
 **Status:** preprint. Not peer reviewed.
 
